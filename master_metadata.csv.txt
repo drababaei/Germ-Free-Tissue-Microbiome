@@ -1,0 +1,4 @@
+BioProject,SRA_Study,SRA_Run,Sample_Name,Tissue,Status,Notes
+PRJDB16338,DRP013668,DRR496697,Sample1,Gut,Germ-free,Placeholder
+PRJNA541981,https://www.ncbi.nlm.nih.gov/sra?linkname=bioproject_sra_all&from_uid=541981,Sample2,Liver,Conventional,Placeholder
+PRJNA820735,https://www.ncbi.nlm.nih.gov/sra?linkname=bioproject_sra_all&from_uid=820735,Sample3,Brain,Germ-free,Placeholder
